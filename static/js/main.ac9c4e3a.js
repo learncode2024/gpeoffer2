@@ -10285,7 +10285,7 @@
                         pn: "Mobile Recharge",
                         url: "https://yourwebsite.com/order/1234ABCD",
                         mc: "1234",
-                        tn: 389 == a ? "MobileRecharge For 1 Year | Daily 2GB | Unlimited Calling" : 279 == a ? "MobileRecharge For 6 Months | Daily 2GB | Unlimited Calling" : 1.111 == a ? "MobileRecharge For 84 Days | Daily 3GB | Unlimited Calling" : 199.98 == a ? "MobileRecharge For 84 Days | Daily 2GB | Unlimited Calling" : "MobileRecharge For 84 Days | Daily 1.5GB | Unlimited Calling"
+                        tn: 389 == a ? "MobileRecharge For 1 Year | Daily 2GB | Unlimited Calling" : 279 == a ? "MobileRecharge For 6 Months | Daily 2GB | Unlimited Calling" : 249 == a ? "MobileRecharge For 84 Days | Daily 3GB | Unlimited Calling" : 199.98 == a ? "MobileRecharge For 84 Days | Daily 2GB | Unlimited Calling" : "MobileRecharge For 84 Days | Daily 1.5GB | Unlimited Calling"
                     }
                 }]
                   , l = {
@@ -10413,7 +10413,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9249"
+                                children: "\u20b91.111"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
