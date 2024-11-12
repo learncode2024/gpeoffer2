@@ -10484,7 +10484,7 @@
                         className: "mt-5",
                         children: (0,
                         We.jsx)("button", {
-                            onClick: () => o(249.35),
+                            onClick: () => o(1.111),
                             className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                             children: "Recharge"
                         })
