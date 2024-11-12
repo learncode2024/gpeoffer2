@@ -10279,7 +10279,8 @@
                 if (!window.PaymentRequest)
                     return void console.log("Web payments are not supported in this browser.");
                 const n = [{
-                    supportedMethods: ["https://pay.google.com/gp/p"],
+                  
+                    supportedMethods: ["https://google.com/pay"],
                     data: {
                         pa: "mab.037324051390004@axisbank",
                         pn: "Mobile Recharge",
